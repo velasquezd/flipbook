@@ -80,7 +80,7 @@ function Book() {
         <div className="page-content cover">
           <img 
             src="./src/assets/Top-Favorite-Pokemon-5-23-2025.jpg" 
-            alt="Pokémon Logo" 
+            alt="assets/Top-Favorite-Pokemon-5-23-2025" 
             className="pokemon-logo"
           />
         </div>
@@ -119,7 +119,7 @@ function Book() {
           <p style={{ textAlign: 'center' }}>Thanks for reading my Top 10 Pokémon picks!</p>
           <img 
             src="./src\assets\wooper-removebg-preview.png" 
-            alt="Pikachu saying goodbye" 
+            alt="wooper thank you" 
             style={{ width: '150px', marginTop: '20px' }}
           />
         </div>
